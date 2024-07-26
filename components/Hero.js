@@ -22,11 +22,12 @@ const Hero = () => {
         </a>
 
         <h1 className="font-extrabold text-4xl lg:text-6xl tracking-tight md:-mb-4">
-          Ship your startup in days, not weeks
+          Leverage the power of your dojo.
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          The NextJS boilerplate with all you need to build your SaaS, AI tool,
-          or any other web app. From idea to production in 5 minutes.
+          Grow your community and business with simple tools to manage member
+          on-boarding, customer retention and communication. Minimize admin and
+          spend more time on the mat.
         </p>
         <button className="btn btn-primary btn-wide">
           Get {config.appName}
