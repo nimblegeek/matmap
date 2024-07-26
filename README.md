@@ -1,5 +1,5 @@
 # Matmap
-Find and explore jiu-jitsu clubs, mats and dojos. 
+Clubs, community and content.
 
-## European map
-List and map view of European clubs.
+- Find and explore jiu-jitsu clubs near and far.
+
